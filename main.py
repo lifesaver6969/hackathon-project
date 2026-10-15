@@ -11,8 +11,8 @@ from datetime import datetime
 app = FastAPI(title="PhishGuard Threat Platform")
 
 # --- OPTIONAL: ADD YOUR GMAIL CREDENTIALS FOR AUTO-REPLY ---
-SCANNER_EMAIL = "your-scanner-email@gmail.com"
-SCANNER_APP_PASSWORD = "your-16-char-app-password"
+SCANNER_EMAIL = "adityakhachane42@gmail.com"
+SCANNER_APP_PASSWORD = "ghks pxfg xrdz mikw"
 
 # Stores scanned emails in memory to display on the web dashboard
 scan_history = []
