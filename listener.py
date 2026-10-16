@@ -6,8 +6,8 @@ import requests
 import time
 
 IMAP_SERVER = "imap.gmail.com"
-EMAIL_USER = "adityakhachane42@gmail.com"        # Your scanner Gmail
-EMAIL_PASS = "ghks pxfg xrdz mikw"            # Your 16-character App Password
+EMAIL_USER = "@gmail.com"        # Your scanner Gmail
+EMAIL_PASS = ""            # Your 16-character App Password
 API_URL = "http://127.0.0.1:8000/api/webhook/email"
 
 def clean_header(header_val):
