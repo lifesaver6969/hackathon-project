@@ -16,8 +16,8 @@ app = FastAPI(title="ThreatLens AI Phishing Platform")
 GEMINI_API_KEY = ""
 
 # --- 2. PASTE YOUR GMAIL CREDENTIALS HERE ---
-SCANNER_EMAIL = "adityakhachane28@gmail.com"
-SCANNER_APP_PASSWORD = "ghks pxfg xrdz mikw"
+SCANNER_EMAIL = ""
+SCANNER_APP_PASSWORD = ""
 
 scan_history = []
 
