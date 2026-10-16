@@ -13,7 +13,7 @@ from datetime import datetime
 app = FastAPI(title="ThreatLens AI Phishing Platform")
 
 # --- 1. PASTE YOUR GEMINI API KEY HERE ---
-GEMINI_API_KEY = "AQ.Ab8RN6IPDdVUqRPJjdt6KZCaLeV2HZ5Amzb0pAHebRbsNBDE8Q"
+GEMINI_API_KEY = ""
 
 # --- 2. PASTE YOUR GMAIL CREDENTIALS HERE ---
 SCANNER_EMAIL = "adityakhachane28@gmail.com"
